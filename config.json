@@ -1,0 +1,39 @@
+{
+    "img": "img/logo.png",
+    "fondo": "img/back-image.png",
+    "menu": [
+        {
+            "href": "#",
+            "value": "Features"
+        },
+        {
+            "href": "#",
+            "value": "How it works"
+        },
+        {
+            "href": "#",
+            "value": "Privacy"
+        }
+    ],
+    "avance": [
+        {
+            "href": "#",
+            "value": "Log in"
+        },
+        {
+            "href": "#",
+            "value": "Dowload App"
+        }
+    ],
+    "content": {
+        "titulo": "Make <br>New Friends",
+        "contenido": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste totam accusamus molestiae omnis nesciunt quae ipsum sed impedit a in, cupiditate atque rem tempore sint excepturi provident nulla delectus. Odio?",
+        "boton": [
+            {
+                "href": "#",
+                "value": "Join Now"
+            }
+        ],
+        "img": "img/pic.png"
+    }
+}

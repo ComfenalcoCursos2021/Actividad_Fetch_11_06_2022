@@ -1,19 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import url('config.css');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-}
-:root{
-    --colorNavegador:#333;
-    --colorLetraBoton: #fff;
-    --colorBoton: #df4881, #c430df;
+    font-family: var(--funete);
 }
 .hero{
     width: 100%;
     min-height: 100vh;
-    background-image: url(../img/back-image.png);
+    /* background-image: url(../img/back-image.png); */
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
